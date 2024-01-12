@@ -2796,6 +2796,10 @@
     "modified": "2020-10-15T21:47:43.585Z",
     "contributors": ["DeadIntegral", "apple77y", "rlaxognsk"]
   },
+  "Web/API/Element/input_event": {
+    "modified": "2020-10-15T22:27:30.949Z",
+    "contributors": ["composite"]
+  },
   "Web/API/Element/insertAdjacentHTML": {
     "modified": "2020-10-15T21:37:34.409Z",
     "contributors": ["alattalatta", "DeadIntegral", "dragonist"]
@@ -3160,10 +3164,6 @@
   "Web/API/HTMLElement/innerText": {
     "modified": "2020-10-15T22:08:26.441Z",
     "contributors": ["alattalatta", "DeadIntegral"]
-  },
-  "Web/API/HTMLElement/input_event": {
-    "modified": "2020-10-15T22:27:30.949Z",
-    "contributors": ["composite"]
   },
   "Web/API/HTMLElement/offsetParent": {
     "modified": "2020-10-15T22:00:41.448Z",
