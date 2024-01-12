@@ -585,6 +585,7 @@
 /pt-BR/docs/Web/API/HTMLContentElement/Seletor	/pt-BR/docs/conflicting/Web/API/HTMLSlotElement_ded38e17cacb3809f7af4fec22adcc56
 /pt-BR/docs/Web/API/HTMLContentElement/getDistributedNodes	/pt-BR/docs/Web/API/HTMLSlotElement
 /pt-BR/docs/Web/API/HTMLContentElement/select	/pt-BR/docs/conflicting/Web/API/HTMLSlotElement_ded38e17cacb3809f7af4fec22adcc56
+/pt-BR/docs/Web/API/HTMLElement/input_event	/pt-BR/docs/Web/API/Element/input_event
 /pt-BR/docs/Web/API/History_API/Example	/pt-BR/docs/Web/API/History_API/Working_with_the_History_API
 /pt-BR/docs/Web/API/History_API/Exemplo	/pt-BR/docs/Web/API/History_API/Working_with_the_History_API
 /pt-BR/docs/Web/API/IndexedDB_API/Usando_IndexedDB	/pt-BR/docs/Web/API/IndexedDB_API/Using_IndexedDB
@@ -738,7 +739,7 @@
 /pt-BR/docs/Web/Events/focus	/pt-BR/docs/Web/API/Element/focus_event
 /pt-BR/docs/Web/Events/focusin	/pt-BR/docs/Web/API/Element/focusin_event
 /pt-BR/docs/Web/Events/focusout	/pt-BR/docs/Web/API/Element/focusout_event
-/pt-BR/docs/Web/Events/input	/pt-BR/docs/Web/API/HTMLElement/input_event
+/pt-BR/docs/Web/Events/input	/pt-BR/docs/Web/API/Element/input_event
 /pt-BR/docs/Web/Events/keydown	/pt-BR/docs/Web/API/Element/keydown_event
 /pt-BR/docs/Web/Events/keypress	/pt-BR/docs/Web/API/Element/keypress_event
 /pt-BR/docs/Web/Events/load	/pt-BR/docs/Web/API/Window/load_event
@@ -781,6 +782,7 @@
 /pt-BR/docs/Web/Guide/HTML/Using_data_attributes	/pt-BR/docs/Learn/HTML/Howto/Use_data_attributes
 /pt-BR/docs/Web/Guide/Introducao_ao_Desenvolvimento_Web	/pt-BR/docs/conflicting/Learn_680f0a64719ec97f557d9b1ef1710826
 /pt-BR/docs/Web/Guide/Introduction_to_Web_development	/pt-BR/docs/conflicting/Learn_680f0a64719ec97f557d9b1ef1710826
+/pt-BR/docs/Web/Guide/Mobile	/pt-BR/docs/conflicting/Learn/CSS/CSS_layout/Responsive_Design
 /pt-BR/docs/Web/Guide/Performance	/pt-BR/docs/Web/Performance
 /pt-BR/docs/Web/Guide/Printing	/pt-BR/docs/Web/CSS/CSS_media_queries/Printing
 /pt-BR/docs/Web/HTML/Applying_color	/pt-BR/docs/Web/CSS/CSS_colors/Applying_color
