@@ -1,6 +1,7 @@
 ---
 title: Développement web mobile
-slug: Web/Guide/Mobile
+slug: conflicting/Learn/CSS/CSS_layout/Responsive_Design
+original_slug: Web/Guide/Mobile
 ---
 
 Cette page fournit un aperçu de certaines des techniques principales nécessaires pour concevoir des sites web qui fonctionneront bien sur les appareils mobiles. Si vous cherchez des informations sur le projet Firefox OS de Mozilla, consultez la page [Firefox OS](/fr/Firefox_OS). Des détails sur [Firefox pour Android](/fr/docs/Mozilla/Firefox_pour_Android) pourraient également vous intéresser.
